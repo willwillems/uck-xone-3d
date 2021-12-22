@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name Demo-Project-01-rescue)(type Legacy)(uri "${KIPRJMOD}/Demo Project 01-rescue.lib")(options "")(descr ""))
+  (lib (name imoptooo)(type Legacy)(uri "/Users/admin/Documents/KiCAD/Teensy Xone/project_libs/CS42448_T4_TEST_symbols.lib")(options "")(descr ""))
+  (lib (name Teensy-Eurorack)(type Legacy)(uri "/Users/admin/Documents/KiCAD/Teensy Xone/project_libs/teensy-eurorack.lib")(options "")(descr ""))
+  (lib (name teensy)(type Legacy)(uri "/Users/admin/Documents/KiCAD/Teensy Xone/project_libs/teensy.lib")(options "")(descr ""))
+)
