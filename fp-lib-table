@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name footprints)(type KiCad)(uri ${KIPRJMOD}/project_libs/LP3853ES-3.3NOPB/footprints.pretty)(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/project_libs/LP3853ES-3.3NOPB/footprints.pretty")(options "")(descr ""))
+  (lib (name "info")(type "KiCad")(uri "/home/branalba/Nextcloud/professional_files/freelancing/upwork/122021_kicadmentor/teensy.pretty")(options "")(descr ""))
 )
